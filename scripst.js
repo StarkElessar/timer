@@ -1,5 +1,5 @@
 // ! Таймер по уроку от [UDemy]:
-const deadline = '2022-01-14'
+const deadline = '2022-11-14'
 
 const getZero = (number) => number >= 0 && number < 10 ? `0${number}` : number
 
